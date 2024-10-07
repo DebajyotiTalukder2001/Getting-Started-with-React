@@ -56,7 +56,7 @@ This is a basic 404 page with dark mode and light mode toggle options. This is b
 
 <h3>Documentation:</h3>
 
-- [Click Here](https://drive.google.com/drive/folders/1Mj4A7bU38aF8Xdg6eed3Omf6tl_OlaMY)
+- Documentation Link: [Click Here](https://drive.google.com/drive/folders/1Mj4A7bU38aF8Xdg6eed3Omf6tl_OlaMY)
 
 
 
