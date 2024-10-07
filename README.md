@@ -4,10 +4,11 @@ This is a basic 404 page with dark mode and light mode toggle options. This is b
 
 <h2>Screenshot:</h2>
 
-![Screenshot (2418)](https://github.com/user-attachments/assets/bd1fb8e7-1191-4a90-b0f3-c0dac96cf61a)
+
+![Screenshot (2456)](https://github.com/user-attachments/assets/d8947306-fba1-4c2c-90c4-cebbad28029a)
 
 
-![Screenshot (2419)](https://github.com/user-attachments/assets/5ad1bb2f-9103-417f-ba9c-40d7f3a75c23)
+![Screenshot (2457)](https://github.com/user-attachments/assets/01a1ce38-f04c-4718-9b32-6885d388dbbe)
 
 
 <h1>React + Vite</h1>
@@ -33,6 +34,30 @@ This is a basic 404 page with dark mode and light mode toggle options. This is b
 ``` pnpm  run dev```
 
 ```Set-ExecutionPolicy Restricted -Scope CurrentUser```
+
+
+
+<h2>How to Run: </h2>
+
+<h3>Terminal></h3>
+
+```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
+
+``` npm install -g pnpm  ```
+
+``` pnpm  install```
+
+``` pnpm  run dev```
+
+```Set-ExecutionPolicy Restricted -Scope CurrentUser```
+
+
+<h2>Sample React Project (YouTube-Clone): </h2>
+
+<h3>Documentation:</h3>
+
+- [Click Here](https://drive.google.com/drive/folders/1Mj4A7bU38aF8Xdg6eed3Omf6tl_OlaMY)
+
 
 
 
