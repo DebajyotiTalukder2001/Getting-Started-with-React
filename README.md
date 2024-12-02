@@ -27,11 +27,11 @@ This is a basic 404 page with dark mode and light mode toggle options. This is b
 
 ```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
 
-``` npm install -g pnpm  ```
+``` npm install -g yarn  ```
 
-``` pnpm  install```
+``` yarn  install```
 
-``` pnpm  run dev```
+``` yarn  run dev```
 
 ```Set-ExecutionPolicy Restricted -Scope CurrentUser```
 
@@ -42,13 +42,13 @@ This is a basic 404 page with dark mode and light mode toggle options. This is b
 
 ```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
 
-``` npm install -g pnpm  ```
+``` npm install -g yarn  ```
 
-``` pnpm  create vite```
+``` yarn  create vite```
 
-``` pnpm  install```
+``` yarn  install```
 
-``` pnpm  run dev```
+``` yarn  run dev```
 
 ```Set-ExecutionPolicy Restricted -Scope CurrentUser```
 
