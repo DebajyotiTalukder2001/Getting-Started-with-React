@@ -18,22 +18,25 @@ This is a basic 404 page with dark mode and light mode toggle options. This is b
 - [Vite](https://vitejs.dev/guide/) 
 - [Tailwind CSS](https://tailwindcss.com/docs/installation) 
 
-<h2>How to Run: </h2>
+
+
+
+<h2> How to Run: </h2>
 
 - Clone this project
 - Navigate to the project directory
-
+  
 <h3>Terminal></h3>
 
-```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
+```Set-ExecutionPolicy Restricted -Scope CurrentUser``` ❌
+
+```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser``` ✅
 
 ``` npm install -g yarn  ```
 
-``` yarn  install```
+``` yarn install```
 
-``` yarn  run dev```
-
-```Set-ExecutionPolicy Restricted -Scope CurrentUser```
+``` yarn run dev```
 
 
 <h2>Getting Started: How to Create React + Vite Project</h2>
@@ -44,14 +47,11 @@ This is a basic 404 page with dark mode and light mode toggle options. This is b
 
 ``` npm install -g yarn  ```
 
-``` yarn  create vite```
+``` yarn create vite```
 
-``` yarn  install```
+``` yarn install```
 
-``` yarn  run dev```
-
-```Set-ExecutionPolicy Restricted -Scope CurrentUser```
-
+``` yarn run dev```
 
 
 <h2>Sample React Project (YouTube-Clone): </h2>
